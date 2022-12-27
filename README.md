@@ -3,20 +3,23 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://xdextazzz.ru/">
     <img src="https://img.shields.io/badge/Site-blue?style=for-the-badge&logo=site&logoColor=white" alt="Site Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://vk.com/xdextazzz">
     <img src="https://img.shields.io/badge/VK-red?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://t.me/xdextazzz">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
-<div>
+<h3>
   Изучаю:
+</h3>
+
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
